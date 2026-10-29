@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 916924,
       "digest": "sha256:ec987acf5cf5df0457055562acf34af2f1016fd72570123c67448e9e8be0c651",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-05-01T06:05:39Z",
       "updated_at": "2026-05-01T06:05:40Z",
       "browser_download_url": "https://github.com/fumiyas/qrc/releases/download/v0.9.0/qrc_0.9.0_darwin_amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 865112,
       "digest": "sha256:5b9b674364e1086776f32dc5acc496a56dbb51861dc07f198911169a1acf6c09",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-05-01T06:05:39Z",
       "updated_at": "2026-05-01T06:05:40Z",
       "browser_download_url": "https://github.com/fumiyas/qrc/releases/download/v0.9.0/qrc_0.9.0_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 873914,
       "digest": "sha256:190f86ee79e6b49a86b017ab843361705ffa59a532c09a4923fd0593c2cba75e",
-      "download_count": 1897,
+      "download_count": 1902,
       "created_at": "2026-05-01T06:05:39Z",
       "updated_at": "2026-05-01T06:05:40Z",
       "browser_download_url": "https://github.com/fumiyas/qrc/releases/download/v0.9.0/qrc_0.9.0_linux_amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 962863,
       "digest": "sha256:b84a97ae59d1654eb2a7a4aeefb3fff14fd98c854985ffffbe388548d05ab275",
-      "download_count": 48,
+      "download_count": 50,
       "created_at": "2026-05-01T06:05:40Z",
       "updated_at": "2026-05-01T06:05:40Z",
       "browser_download_url": "https://github.com/fumiyas/qrc/releases/download/v0.9.0/qrc_0.9.0_windows_amd64.zip"
