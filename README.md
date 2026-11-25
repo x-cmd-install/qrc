@@ -45,12 +45,12 @@ Total: **1,164** lines of code across **14** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-29 | 1 | 0 | 0 | 0 | 0 | 39 |
-| last720d | 2024-12-04 | 1 | 0 | 0 | 0 | 0 | 39 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-29 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-30 | 1 | 0 | 0 | 0 | 0 | 39 |
+| last720d | 2024-12-05 | 1 | 0 | 0 | 0 | 0 | 39 |
 
 ## Release assets
 
@@ -64,14 +64,6 @@ Total: **1,164** lines of code across **14** files in the top 5 languages.
 | [qrc_0.9.0_windows_amd64.zip](https://github.com/fumiyas/qrc/releases/download/v0.9.0/qrc_0.9.0_windows_amd64.zip) | 940.3 KiB | `native/win/x64` |
 | [qrc_0.9.0_windows_arm64.zip](https://github.com/fumiyas/qrc/releases/download/v0.9.0/qrc_0.9.0_windows_arm64.zip) | 857.4 KiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **3** distros on [repology.org](https://repology.org/project/qrc). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `0.9.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for qrc lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `qrc` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -81,4 +73,4 @@ Install metadata for qrc lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:32:36Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:41:50Z._
